@@ -26,6 +26,12 @@ Both Notebooks use a PySpark Kernel
 
 Both Notebooks use the Pandas Library
   sc.install_pypi_packages("pandas==0.25.0")
+  
+# Dashbaord (Tooltips only show in Quicksite)
+![image](https://user-images.githubusercontent.com/73848656/168955267-e6c0f09e-cf9a-4e02-832d-c8e962dc269c.png)
+![image](https://user-images.githubusercontent.com/73848656/168955317-b08fc146-f3c6-4c60-b436-c7abd6e65241.png)
+![image](https://user-images.githubusercontent.com/73848656/168955345-d2892e6f-2ac0-45f3-890c-9aefdf198755.png)
+![image](https://user-images.githubusercontent.com/73848656/168955362-05eae9f1-2b94-4689-b655-bd08d7c2617d.png)
 
 # Ideas for the future
 
